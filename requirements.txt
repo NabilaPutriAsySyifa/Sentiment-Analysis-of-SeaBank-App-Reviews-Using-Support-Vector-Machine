@@ -8,3 +8,4 @@ Sastrawi
 wordcloud
 joblib
 requests
+notebook
